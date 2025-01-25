@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+<suite name="Regression suite">
+    <listeners>
+        <listener class-name="Listeners.ITestResultListenerClass"/>
+        <listener class-name="Listeners.IInvokedMethodListenerClass"/>
+    </listeners>
+    <test name="Regression Test">
+        <classes>
+            <class name="Tests.TC01_VerifyRegister"/>
+            <class name="Tests.TC02_LoginWithValidData"/>
+            <class name="Tests.TC03_InValidLogin"/>
+            <class name="Tests.TC04_LogoutUser"/>
+            <class name="Tests.TC05_VerifyAllProducts"/>
+            <class name="Tests.TC06_VerifySearchingProducts"/>
+            <class name="Tests.TC07_VerifyAddingProductsOnCart"/>
+            <class name="Tests.TC08_VerifyProductsQuantityInTheCart"/>
+            <class name="Tests.TC09_ValidateTheCheckoutProcess"/>
+            <class name="Tests.TC10_VerifyDownloadingInvoice"/>
+        </classes>
+    </test>
+</suite>

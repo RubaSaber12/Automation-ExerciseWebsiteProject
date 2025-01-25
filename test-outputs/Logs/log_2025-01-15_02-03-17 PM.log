@@ -1,0 +1,4 @@
+[INFO] 15-01-2025 14:03:17 [main] [Tests.TC06_VerifySearchingProducts.Setup(TC06_VerifySearchingProducts.java:31)] - Chrome driver is opened
+[INFO] 15-01-2025 14:03:17 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseSetupfailed
+[INFO] 15-01-2025 14:03:18 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifySearchingProcessStarted
+[INFO] 15-01-2025 14:03:18 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseVerifySearchingProcessSkipped

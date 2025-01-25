@@ -1,0 +1,8 @@
+[INFO] 22-01-2025 12:07:25 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened
+[INFO] 22-01-2025 12:07:29 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:25)] - Page is redirected to the URL
+[INFO] 22-01-2025 12:07:31 [main] [Pages.P02_HomePage.clickOnLogin(P02_HomePage.java:30)] - Redirected to Login Page
+[INFO] 22-01-2025 12:07:31 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:40)] - Entered Email: Rubasaber12@gmail.com
+[INFO] 22-01-2025 12:07:31 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:42)] - Entered Password: Rais@3120
+[INFO] 22-01-2025 12:07:33 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:44)] - User logged in successfully
+[ERROR] 22-01-2025 12:07:33 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 12:07:33 [main] [Pages.P02_HomePage.verifyLoginUserNameIsVisible(P02_HomePage.java:50)] - Username is visible, login successful

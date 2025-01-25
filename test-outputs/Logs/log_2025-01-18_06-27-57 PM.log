@@ -1,0 +1,11 @@
+[INFO] 18-01-2025 18:27:58 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 18-01-2025 18:28:02 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 18-01-2025 18:28:02 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 18-01-2025 18:28:07 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:38)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 18:28:09 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:40)] -  The User Logged in successfully
+[INFO] 18-01-2025 18:28:12 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:48)] - The product added to cart successfully
+[INFO] 18-01-2025 18:28:16 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:50)] - The Cart is opened
+[INFO] 18-01-2025 18:28:18 [main] [Pages.P09_CheckoutPage.CheckOutProcess(P09_CheckoutPage.java:58)] - The Comment: WHEN CHUCK NORRIS' CODE FAILS TO COMPILE THE COMPILER APOLOGISES.
+[INFO] 18-01-2025 18:28:20 [main] [Pages.P09_CheckoutPage.FillingCardData(P09_CheckoutPage.java:69)] - The Card Data is: Name: Marquetta StokesNumber: 6011-1226-7330-8801CVC: 598ExpMonth: 10ExpYear: 2029
+[INFO] 18-01-2025 18:28:21 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidateTheCheckoutProcessfailed
+[INFO] 18-01-2025 18:28:21 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:62)] - Test execution completed. Closing browser.

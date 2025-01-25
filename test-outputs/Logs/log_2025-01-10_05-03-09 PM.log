@@ -1,0 +1,6 @@
+[INFO] 10-01-2025 17:03:09 [main] [Tests.TC04_LogoutUser.Setup(TC04_LogoutUser.java:24)] - Chrome driver is opened
+[INFO] 10-01-2025 17:03:14 [main] [Tests.TC04_LogoutUser.Setup(TC04_LogoutUser.java:26)] - Page is redirected to the URL
+[INFO] 10-01-2025 17:03:17 [main] [Pages.P04_LogoutPage.ClickOnLogin(P04_LogoutPage.java:26)] - It's redirect to LoginPage
+[INFO] 10-01-2025 17:03:17 [main] [Pages.P04_LogoutPage.FillingEmailAddressAndPassword(P04_LogoutPage.java:37)] - The Existing Email is: Rubasaber12@gmail.com
+[INFO] 10-01-2025 17:03:17 [main] [Pages.P04_LogoutPage.FillingEmailAddressAndPassword(P04_LogoutPage.java:39)] - The Existing password is: Rais@3120
+[INFO] 10-01-2025 17:03:19 [main] [Pages.P04_LogoutPage.FillingEmailAddressAndPassword(P04_LogoutPage.java:41)] - The user Fail to login

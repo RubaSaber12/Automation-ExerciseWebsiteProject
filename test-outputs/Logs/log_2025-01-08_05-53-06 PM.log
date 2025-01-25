@@ -1,0 +1,18 @@
+[INFO] 08-01-2025 17:53:06 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 08-01-2025 17:53:12 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 08-01-2025 17:53:12 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 08-01-2025 17:53:18 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:75)] - Password: Rais@3120
+[INFO] 08-01-2025 17:53:18 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:79)] - Day: 3
+[INFO] 08-01-2025 17:53:18 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:81)] - Month: December
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:83)] - Year: 2000
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:92)] - First name: Ladonna
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:95)] - Last name: Abernathy
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:100)] - Company: Gottlieb, Becker and Kemmer
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:103)] - First Address : 0845 Stephen Mills
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:106)] - Second Address: Suite 225
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:109)] - Country: United States
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:112)] - State : Connecticut
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:115)] - city: North Cameron
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:118)] - zip code: 73530
+[INFO] 08-01-2025 17:53:19 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:121)] - Mobile number: 7416399159
+[INFO] 08-01-2025 17:54:12 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidSignUpfailed

@@ -1,0 +1,2 @@
+[INFO] 04-01-2025 14:37:18 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 04-01-2025 14:37:20 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidSignUpfailed

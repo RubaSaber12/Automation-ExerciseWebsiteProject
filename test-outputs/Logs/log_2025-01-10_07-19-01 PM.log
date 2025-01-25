@@ -1,0 +1,25 @@
+[INFO] 10-01-2025 19:19:01 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:29)] - Chrome driver is opened
+[INFO] 10-01-2025 19:19:42 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:31)] - Page is redirected to the URL
+[INFO] 10-01-2025 19:19:42 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsPageStarted
+[INFO] 10-01-2025 19:19:47 [main] [Pages.P05_ProductsPage.ClickOnProductButton(P05_ProductsPage.java:32)] - The page redirect to products List
+[INFO] 10-01-2025 19:19:47 [main] [Pages.P05_ProductsPage.VerifyTheProductsPageURL(P05_ProductsPage.java:38)] - The products page URL is https://automationexercise.com/products
+[INFO] 10-01-2025 19:19:47 [main] [Pages.P05_ProductsPage.verifyAllProductExist(P05_ProductsPage.java:44)] - Verifying visibility of all products element: By.xpath: //h2[normalize-space()='All Products']
+[ERROR] 10-01-2025 19:19:47 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //h2[normalize-space()='All Products'] | Error: Cannot parse null string
+[ERROR] 10-01-2025 19:19:47 [main] [Pages.P05_ProductsPage.verifyAllProductExist(P05_ProductsPage.java:46)] - All products section is not visible.
+[ERROR] 10-01-2025 19:19:47 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.className: .product-image-wrapper | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:48 [main] [Pages.P05_ProductsPage.viewProductDetails(P05_ProductsPage.java:60)] - The product Details is opened
+[ERROR] 10-01-2025 19:19:48 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //h2[normalize-space()='Winter Top'] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:67)] - The Product name is By.xpath: //h2[normalize-space()='Winter Top']
+[ERROR] 10-01-2025 19:19:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //p[normalize-space()='Category: Women > Tops'] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:71)] - The Product Category is By.xpath: //p[normalize-space()='Category: Women > Tops']
+[ERROR] 10-01-2025 19:19:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //span[normalize-space()='Rs. 600'] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:76)] - The Product Price is $By.xpath: //span[normalize-space()='Rs. 600']
+[ERROR] 10-01-2025 19:19:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //label[normalize-space()='Quantity:'] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:80)] - The Product availability is By.xpath: //div[@class='product-details']//p[2]
+[ERROR] 10-01-2025 19:19:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //div[@class='product-details']//p[2] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:85)] - The Product availability is By.xpath: //div[@class='product-details']//p[2]
+[ERROR] 10-01-2025 19:19:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //body//section//p[3] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:90)] - The Product condition is By.xpath: //body//section//p[3]
+[ERROR] 10-01-2025 19:19:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:137)] - Element not visible or not found: By.xpath: //body//section//p[4] | Error: Cannot parse null string
+[INFO] 10-01-2025 19:19:49 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:95)] - The product Brand is By.xpath: //body//section//p[4]
+[INFO] 10-01-2025 19:19:49 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseVerifyProductsPagePassed

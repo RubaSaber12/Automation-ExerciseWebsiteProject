@@ -1,0 +1,11 @@
+[INFO] 22-01-2025 12:14:05 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:45)] - Chrome driver is opened
+[INFO] 22-01-2025 12:14:09 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:47)] - Page is redirected to the URL
+[INFO] 22-01-2025 12:14:09 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyDownloadingInvoiceStarted
+[INFO] 22-01-2025 12:14:11 [main] [Pages.P10_DownloadInvoice.SignUpProcess(P10_DownloadInvoice.java:42)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 22-01-2025 12:14:14 [main] [Pages.P10_DownloadInvoice.SignUpProcess(P10_DownloadInvoice.java:44)] -  The User Logged in successfully
+[INFO] 22-01-2025 12:14:16 [main] [Pages.P10_DownloadInvoice.AddingProductToCart(P10_DownloadInvoice.java:52)] - The product added to cart successfully
+[INFO] 22-01-2025 12:14:18 [main] [Pages.P10_DownloadInvoice.AddingProductToCart(P10_DownloadInvoice.java:54)] - The Cart is opened
+[INFO] 22-01-2025 12:14:20 [main] [Pages.P10_DownloadInvoice.CheckOutProcess(P10_DownloadInvoice.java:62)] - The Comment: CHUCK NORRIS' BEARD IS IMMUTABLE.
+[INFO] 22-01-2025 12:14:21 [main] [Pages.P10_DownloadInvoice.FillingCardData(P10_DownloadInvoice.java:73)] - The Card Data is: Name: Tamala Bins MDNumber: 3686-872092-1400CVC: 164ExpMonth: 07ExpYear: 2027
+[INFO] 22-01-2025 12:14:28 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseVerifyDownloadingInvoicePassed
+[INFO] 22-01-2025 12:14:28 [main] [Tests.TC10_VerifyDownloadingInvoice.Quit(TC10_VerifyDownloadingInvoice.java:65)] - Test execution completed. Closing browser.

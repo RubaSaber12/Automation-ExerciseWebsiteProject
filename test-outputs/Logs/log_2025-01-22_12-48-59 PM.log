@@ -1,0 +1,8 @@
+[INFO] 22-01-2025 12:48:59 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:33)] - Chrome driver is opened
+[INFO] 22-01-2025 12:49:05 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:35)] - Page is redirected to the URL
+[INFO] 22-01-2025 12:49:05 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsQuantityInTheCartStarted
+[INFO] 22-01-2025 12:49:08 [main] [Pages.P08_AddingRandomProducts.OpenProductsPage(P08_AddingRandomProducts.java:30)] - The products page has opened
+[INFO] 22-01-2025 12:49:11 [main] [Pages.P08_AddingRandomProducts.AddingProductsOnCart(P08_AddingRandomProducts.java:44)] - The number of products is 34
+[INFO] 22-01-2025 12:49:15 [main] [Pages.P08_AddingRandomProducts.AddingProductsOnCart(P08_AddingRandomProducts.java:51)] - The Cart page is opened
+[ERROR] 22-01-2025 12:49:15 [main] [Utilities.WaitsUtils.waitForElementPresent(WaitsUtils.java:55)] - Element not exist. By.xpath: //button[contains(text(),'30')]
+[INFO] 22-01-2025 12:49:21 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseVerifyProductsQuantityInTheCartfailed

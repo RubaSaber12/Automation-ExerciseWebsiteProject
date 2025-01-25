@@ -1,0 +1,6 @@
+[INFO] 11-01-2025 16:16:33 [main] [Tests.TC06_VerifySearchingProducts.Setup(TC06_VerifySearchingProducts.java:31)] - Chrome driver is opened
+[INFO] 11-01-2025 16:16:37 [main] [Tests.TC06_VerifySearchingProducts.Setup(TC06_VerifySearchingProducts.java:33)] - Page is redirected to the URL
+[INFO] 11-01-2025 16:16:38 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifySearchingProcessStarted
+[INFO] 11-01-2025 16:16:41 [main] [Pages.P06_SearchingProduct.ClickOnProductButton(P06_SearchingProduct.java:33)] - The page redirect to products List
+[INFO] 11-01-2025 16:16:41 [main] [Pages.P06_SearchingProduct.VerifyTheProductsPageURL(P06_SearchingProduct.java:39)] - The products page URL is https://automationexercise.com/products
+[INFO] 11-01-2025 16:16:44 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseVerifySearchingProcessfailed

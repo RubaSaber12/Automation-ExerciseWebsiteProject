@@ -1,0 +1,5 @@
+[INFO] 21-01-2025 17:30:32 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 21-01-2025 17:30:37 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 21-01-2025 17:30:37 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CasevalidSignUpStarted
+[INFO] 21-01-2025 17:30:47 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CasevalidSignUpfailed
+[INFO] 21-01-2025 17:30:48 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened

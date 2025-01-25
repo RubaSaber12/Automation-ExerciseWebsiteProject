@@ -1,0 +1,23 @@
+[INFO] 10-01-2025 19:30:30 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:29)] - Chrome driver is opened
+[INFO] 10-01-2025 19:30:35 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:31)] - Page is redirected to the URL
+[INFO] 10-01-2025 19:30:36 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsPageStarted
+[INFO] 10-01-2025 19:30:40 [main] [Pages.P05_ProductsPage.ClickOnProductButton(P05_ProductsPage.java:32)] - The page redirect to products List
+[INFO] 10-01-2025 19:30:40 [main] [Pages.P05_ProductsPage.VerifyTheProductsPageURL(P05_ProductsPage.java:38)] - The products page URL is https://automationexercise.com/products
+[ERROR] 10-01-2025 19:30:40 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[ERROR] 10-01-2025 19:30:40 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.viewProductDetails(P05_ProductsPage.java:56)] - The product Details is opened
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:63)] - The Product name is Winter Top
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:67)] - The Product Category is By.xpath: //p[normalize-space()='Category: Women > Tops']
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:72)] - The Product Price is $By.xpath: //span[normalize-space()='Rs. 600']
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:76)] - The Product availability is By.xpath: //div[@class='product-details']//p[2]
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:81)] - The Product availability is By.xpath: //div[@class='product-details']//p[2]
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:86)] - The Product condition is By.xpath: //body//section//p[3]
+[ERROR] 10-01-2025 19:30:45 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:30:45 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:91)] - The product Brand is By.xpath: //body//section//p[4]
+[INFO] 10-01-2025 19:30:45 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseVerifyProductsPagePassed

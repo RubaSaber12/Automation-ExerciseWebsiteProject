@@ -1,0 +1,7 @@
+[INFO] 18-01-2025 19:59:19 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:45)] - Chrome driver is opened
+[INFO] 18-01-2025 19:59:24 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:47)] - Page is redirected to the URL
+[INFO] 18-01-2025 19:59:24 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyDownloadingInvoiceStarted
+[INFO] 18-01-2025 19:59:26 [main] [Pages.P10_DownloadInvoice.SignUpProcess(P10_DownloadInvoice.java:42)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 19:59:29 [main] [Pages.P10_DownloadInvoice.SignUpProcess(P10_DownloadInvoice.java:44)] -  The User Logged in successfully
+[INFO] 18-01-2025 20:00:27 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseVerifyDownloadingInvoicefailed
+[INFO] 18-01-2025 20:00:27 [main] [Tests.TC10_VerifyDownloadingInvoice.Quit(TC10_VerifyDownloadingInvoice.java:65)] - Test execution completed. Closing browser.

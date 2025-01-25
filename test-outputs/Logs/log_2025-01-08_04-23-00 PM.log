@@ -1,0 +1,18 @@
+[INFO] 08-01-2025 16:23:00 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 08-01-2025 16:23:06 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 08-01-2025 16:23:06 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:75)] - Password: Rais@3120
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:79)] - Day: 3
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:81)] - Month: December
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:83)] - Year: 2000
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:92)] - First name: Mac
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:95)] - Last name: Marks
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:100)] - Company: Miller, Bechtelar and Graham
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:103)] - First Address : 6822 Francis Forge
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:106)] - Second Address: Apt. 118
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:109)] - Country: United States
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:112)] - State : Georgia
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:115)] - city: Rudolphchester
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:118)] - zip code: 53965-7818
+[INFO] 08-01-2025 16:23:13 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:121)] - Mobile number: 7118135411
+[INFO] 08-01-2025 16:23:22 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidSignUpfailed

@@ -1,0 +1,6 @@
+[INFO] 22-01-2025 12:07:03 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 22-01-2025 12:07:07 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 22-01-2025 12:07:08 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CasevalidSignUpStarted
+[INFO] 22-01-2025 12:07:11 [main] [Pages.P01_RegisterPage.fillUserRegisterForm(P01_RegisterPage.java:68)] - Password: Rais@3120
+[INFO] 22-01-2025 12:07:16 [main] [Pages.P01_RegisterPage.continueCreateAccount(P01_RegisterPage.java:93)] - Account Created!
+[INFO] 22-01-2025 12:07:16 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CasevalidSignUpPassed

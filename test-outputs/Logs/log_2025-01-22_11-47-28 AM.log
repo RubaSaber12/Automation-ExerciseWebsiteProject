@@ -1,0 +1,86 @@
+[INFO] 22-01-2025 11:47:28 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 22-01-2025 11:47:33 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:47:33 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CasevalidSignUpStarted
+[INFO] 22-01-2025 11:47:39 [main] [Pages.P01_RegisterPage.fillUserRegisterForm(P01_RegisterPage.java:68)] - Password: Rais@3120
+[INFO] 22-01-2025 11:47:40 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CasevalidSignUpfailed
+[INFO] 22-01-2025 11:47:41 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened
+[INFO] 22-01-2025 11:47:46 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:25)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:47:46 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidLoginStarted
+[INFO] 22-01-2025 11:47:48 [main] [Pages.P02_HomePage.clickOnLogin(P02_HomePage.java:30)] - Redirected to Login Page
+[INFO] 22-01-2025 11:47:48 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:40)] - Entered Email: Rubasaber12@gmail.com
+[INFO] 22-01-2025 11:47:48 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:42)] - Entered Password: Rais@3120
+[INFO] 22-01-2025 11:47:50 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:44)] - User logged in successfully
+[ERROR] 22-01-2025 11:47:50 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:47:50 [main] [Pages.P02_HomePage.verifyLoginUserNameIsVisible(P02_HomePage.java:50)] - Username is visible, login successful
+[INFO] 22-01-2025 11:47:55 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseValidLoginfailed
+[INFO] 22-01-2025 11:47:56 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:24)] - Chrome driver is opened
+[INFO] 22-01-2025 11:48:02 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:26)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:48:02 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseInvalidLoginStarted
+[INFO] 22-01-2025 11:48:05 [main] [Pages.P03_FailedLoginPage.ClickOnLogin(P03_FailedLoginPage.java:24)] - It's redirect to LoginPage
+[INFO] 22-01-2025 11:48:05 [main] [Pages.P03_FailedLoginPage.FillingEmailAddressAndPassword(P03_FailedLoginPage.java:35)] - The Existing Email is: kit.schamberger@hotmail.com
+[INFO] 22-01-2025 11:48:05 [main] [Pages.P03_FailedLoginPage.FillingEmailAddressAndPassword(P03_FailedLoginPage.java:37)] - The Existing password is: 0isnhohdv4vk7od
+[INFO] 22-01-2025 11:48:07 [main] [Pages.P03_FailedLoginPage.FillingEmailAddressAndPassword(P03_FailedLoginPage.java:39)] - The user Fail to login
+[INFO] 22-01-2025 11:48:07 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseInvalidLoginPassed
+[INFO] 22-01-2025 11:48:08 [main] [Tests.TC04_LogoutUser.Setup(TC04_LogoutUser.java:24)] - Chrome driver is opened
+[INFO] 22-01-2025 11:48:12 [main] [Tests.TC04_LogoutUser.Setup(TC04_LogoutUser.java:26)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:48:13 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidLogoutStarted
+[INFO] 22-01-2025 11:48:16 [main] [Pages.P04_LogoutPage.ClickOnLogin(P04_LogoutPage.java:26)] - It's redirect to LoginPage
+[INFO] 22-01-2025 11:48:16 [main] [Pages.P04_LogoutPage.FillingEmailAddressAndPassword(P04_LogoutPage.java:37)] - The Existing Email is: Rubasaber12@gmail.com
+[INFO] 22-01-2025 11:48:16 [main] [Pages.P04_LogoutPage.FillingEmailAddressAndPassword(P04_LogoutPage.java:39)] - The Existing password is: Rais@3120
+[INFO] 22-01-2025 11:48:20 [main] [Pages.P04_LogoutPage.FillingEmailAddressAndPassword(P04_LogoutPage.java:41)] - The User Logged In Successfully
+[INFO] 22-01-2025 11:48:25 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseValidLogoutfailed
+[INFO] 22-01-2025 11:48:26 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:29)] - Chrome driver is opened
+[INFO] 22-01-2025 11:48:31 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:31)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:48:31 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsPageStarted
+[INFO] 22-01-2025 11:48:34 [main] [Pages.P05_ProductsPage.ClickOnProductButton(P05_ProductsPage.java:32)] - The page redirect to products List
+[INFO] 22-01-2025 11:48:34 [main] [Pages.P05_ProductsPage.VerifyTheProductsPageURL(P05_ProductsPage.java:38)] - The products page URL is https://automationexercise.com/products
+[ERROR] 22-01-2025 11:48:34 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[ERROR] 22-01-2025 11:48:34 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.viewProductDetails(P05_ProductsPage.java:56)] - The product Details is opened
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:63)] - The Product name is Winter Top
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:67)] - The Product Category is Category: Women > Tops
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:72)] - The Product Price is $Rs. 600
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:76)] - The Product availability is Quantity:
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:81)] - The Product availability is Availability: In Stock
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:86)] - The Product condition is Condition: New
+[ERROR] 22-01-2025 11:48:36 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 22-01-2025 11:48:36 [main] [Pages.P05_ProductsPage.VerifyProductDetailsIsExist(P05_ProductsPage.java:91)] - The product Brand is Brand: Mast & Harbour
+[INFO] 22-01-2025 11:48:37 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseVerifyProductsPagePassed
+[INFO] 22-01-2025 11:48:38 [main] [Tests.TC06_VerifySearchingProducts.Setup(TC06_VerifySearchingProducts.java:31)] - Chrome driver is opened
+[INFO] 22-01-2025 11:48:42 [main] [Tests.TC06_VerifySearchingProducts.Setup(TC06_VerifySearchingProducts.java:33)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:48:43 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifySearchingProcessStarted
+[INFO] 22-01-2025 11:48:45 [main] [Pages.P06_SearchingProduct.ClickOnProductButton(P06_SearchingProduct.java:32)] - The page redirect to products List
+[INFO] 22-01-2025 11:48:45 [main] [Pages.P06_SearchingProduct.VerifyTheProductsPageURL(P06_SearchingProduct.java:38)] - The products page URL is https://automationexercise.com/products
+[INFO] 22-01-2025 11:48:47 [main] [Pages.P06_SearchingProduct.VerifyAllProductsRelatedToSearchAreVisible(P06_SearchingProduct.java:58)] - Search Result Size: 3
+[INFO] 22-01-2025 11:48:48 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseVerifySearchingProcessPassed
+[INFO] 22-01-2025 11:48:49 [main] [Tests.TC07_VerifyAddingProductsOnCart.Setup(TC07_VerifyAddingProductsOnCart.java:27)] - Chrome driver is opened
+[INFO] 22-01-2025 11:48:52 [main] [Tests.TC07_VerifyAddingProductsOnCart.Setup(TC07_VerifyAddingProductsOnCart.java:29)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:48:52 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyAddingProductsToCartStarted
+[INFO] 22-01-2025 11:48:57 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseVerifyAddingProductsToCartfailed
+[INFO] 22-01-2025 11:48:58 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:33)] - Chrome driver is opened
+[INFO] 22-01-2025 11:49:03 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:35)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:49:03 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsQuantityInTheCartStarted
+[INFO] 22-01-2025 11:49:06 [main] [Pages.P08_AddingRandomProducts.OpenProductsPage(P08_AddingRandomProducts.java:27)] - The products page has opened
+[INFO] 22-01-2025 11:49:08 [main] [Pages.P08_AddingRandomProducts.AddingProductsOnCart(P08_AddingRandomProducts.java:36)] - The number of products is 8
+[INFO] 22-01-2025 11:49:13 [main] [Pages.P08_AddingRandomProducts.AddingProductsOnCart(P08_AddingRandomProducts.java:43)] - The Cart page is opened
+[INFO] 22-01-2025 11:49:18 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseVerifyProductsQuantityInTheCartfailed
+[INFO] 22-01-2025 11:49:19 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 22-01-2025 11:49:23 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:49:23 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 22-01-2025 11:49:28 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseValidateTheCheckoutProcessfailed
+[INFO] 22-01-2025 11:49:28 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:62)] - Test execution completed. Closing browser.
+[INFO] 22-01-2025 11:49:29 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:45)] - Chrome driver is opened
+[INFO] 22-01-2025 11:49:33 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:47)] - Page is redirected to the URL
+[INFO] 22-01-2025 11:49:33 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyDownloadingInvoiceStarted
+[INFO] 22-01-2025 11:49:36 [main] [Pages.P10_DownloadInvoice.SignUpProcess(P10_DownloadInvoice.java:42)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 22-01-2025 11:49:38 [main] [Pages.P10_DownloadInvoice.SignUpProcess(P10_DownloadInvoice.java:44)] -  The User Logged in successfully
+[INFO] 22-01-2025 11:49:41 [main] [Pages.P10_DownloadInvoice.AddingProductToCart(P10_DownloadInvoice.java:52)] - The product added to cart successfully
+[INFO] 22-01-2025 11:49:44 [main] [Pages.P10_DownloadInvoice.AddingProductToCart(P10_DownloadInvoice.java:54)] - The Cart is opened
+[INFO] 22-01-2025 11:49:44 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseVerifyDownloadingInvoicefailed
+[INFO] 22-01-2025 11:49:45 [main] [Tests.TC10_VerifyDownloadingInvoice.Quit(TC10_VerifyDownloadingInvoice.java:65)] - Test execution completed. Closing browser.

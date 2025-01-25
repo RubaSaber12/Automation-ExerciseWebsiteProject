@@ -1,0 +1,11 @@
+[INFO] 15-01-2025 17:10:25 [main] [Tests.TC07_VerifyAddingProductsOnCart.Setup(TC07_VerifyAddingProductsOnCart.java:27)] - Chrome driver is opened
+[INFO] 15-01-2025 17:10:29 [main] [Tests.TC07_VerifyAddingProductsOnCart.Setup(TC07_VerifyAddingProductsOnCart.java:29)] - Page is redirected to the URL
+[INFO] 15-01-2025 17:10:30 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyAddingProductsToCartStarted
+[INFO] 15-01-2025 17:10:33 [main] [Pages.P07_AddProductToCart.ClickOnProductsPage(P07_AddProductToCart.java:29)] - The products page is opened
+[INFO] 15-01-2025 17:10:33 [main] [Pages.P07_AddProductToCart.AddingProductsToCart(P07_AddProductToCart.java:37)] - The First product Added
+[INFO] 15-01-2025 17:10:34 [main] [Pages.P07_AddProductToCart.AddingProductsToCart(P07_AddProductToCart.java:42)] - The Second product Added
+[INFO] 15-01-2025 17:10:37 [main] [Pages.P07_AddProductToCart.GetFirstPrice(P07_AddProductToCart.java:54)] - First Price 500
+[INFO] 15-01-2025 17:10:37 [main] [Pages.P07_AddProductToCart.GetFirstPrice(P07_AddProductToCart.java:54)] - First Price 500
+[INFO] 15-01-2025 17:10:37 [main] [Pages.P07_AddProductToCart.GetSecondPrice(P07_AddProductToCart.java:66)] - First Price 1000
+[INFO] 15-01-2025 17:10:37 [main] [Pages.P07_AddProductToCart.GetSecondPrice(P07_AddProductToCart.java:66)] - First Price 1000
+[INFO] 15-01-2025 17:10:37 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseVerifyAddingProductsToCartfailed

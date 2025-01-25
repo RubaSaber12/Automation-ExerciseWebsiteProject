@@ -1,0 +1,18 @@
+[INFO] 08-01-2025 16:16:55 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 08-01-2025 16:17:01 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 08-01-2025 16:17:01 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:75)] - Password: Rais@3120
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:79)] - Day: 3
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:81)] - Month: December
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:83)] - Year: 2000
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:92)] - First name: Chas
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:95)] - Last name: Jakubowski
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:100)] - Company: Volkman, Gislason and Lehner
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:103)] - First Address : 36891 Genaro Estates
+[INFO] 08-01-2025 16:17:07 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:106)] - Second Address: Apt. 574
+[INFO] 08-01-2025 16:17:08 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:109)] - Country: United States
+[INFO] 08-01-2025 16:17:08 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:112)] - State : California
+[INFO] 08-01-2025 16:17:08 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:115)] - city: Trevormouth
+[INFO] 08-01-2025 16:17:08 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:118)] - zip code: 22896
+[INFO] 08-01-2025 16:17:08 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:121)] - Mobile number: 8185726275
+[INFO] 08-01-2025 16:17:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidSignUpfailed

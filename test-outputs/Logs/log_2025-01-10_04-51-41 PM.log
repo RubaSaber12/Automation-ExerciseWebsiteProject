@@ -1,0 +1,20 @@
+[INFO] 10-01-2025 16:51:41 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 10-01-2025 16:51:45 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 10-01-2025 16:51:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:76)] - Password: Rais@3120
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:80)] - Day: 3
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:82)] - Month: December
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:84)] - Year: 2000
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:93)] - First name: Les
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:96)] - Last name: Mraz
+[INFO] 10-01-2025 16:51:51 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:101)] - Company: Hyatt Inc
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:104)] - First Address : 0205 Domenic Square
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:107)] - Second Address: Suite 908
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:110)] - Country: United States
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:113)] - State : Florida
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:116)] - city: Mayertbury
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:119)] - zip code: 93936-5075
+[INFO] 10-01-2025 16:51:52 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:122)] - Mobile number: 6444067526
+[INFO] 10-01-2025 16:51:56 [main] [Pages.P01_RegisterPage.ContinueCreateAccount(P01_RegisterPage.java:133)] - Account Created ! 
+[INFO] 10-01-2025 16:51:58 [main] [Pages.P01_RegisterPage.checkSuccessMessageAccountDeleted(P01_RegisterPage.java:147)] - Account DELETED ! 
+[INFO] 10-01-2025 16:52:00 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseValidSignUpPassed

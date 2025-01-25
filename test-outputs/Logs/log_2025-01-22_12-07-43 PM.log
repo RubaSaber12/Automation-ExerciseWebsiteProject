@@ -1,0 +1,6 @@
+[INFO] 22-01-2025 12:07:43 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:24)] - Chrome driver is opened
+[INFO] 22-01-2025 12:07:47 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:26)] - Page is redirected to the URL
+[INFO] 22-01-2025 12:07:49 [main] [Pages.P03_FailedLoginPage.ClickOnLogin(P03_FailedLoginPage.java:24)] - It's redirect to LoginPage
+[INFO] 22-01-2025 12:07:50 [main] [Pages.P03_FailedLoginPage.FillingEmailAddressAndPassword(P03_FailedLoginPage.java:35)] - The Existing Email is: jona.kunde@yahoo.com
+[INFO] 22-01-2025 12:07:50 [main] [Pages.P03_FailedLoginPage.FillingEmailAddressAndPassword(P03_FailedLoginPage.java:37)] - The Existing password is: bcz4fuzzux
+[INFO] 22-01-2025 12:07:51 [main] [Pages.P03_FailedLoginPage.FillingEmailAddressAndPassword(P03_FailedLoginPage.java:39)] - The user Fail to login

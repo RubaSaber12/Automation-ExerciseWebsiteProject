@@ -1,0 +1,8 @@
+[INFO] 10-01-2025 18:40:42 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:24)] - Chrome driver is opened
+[INFO] 10-01-2025 18:40:46 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:26)] - Page is redirected to the URL
+[INFO] 10-01-2025 18:40:49 [main] [Pages.P05_ProductsPage.ClickOnProductButton(P05_ProductsPage.java:32)] - The page redirect to products List
+[INFO] 10-01-2025 18:40:49 [main] [Pages.P05_ProductsPage.VerifyTheProductsPageURL(P05_ProductsPage.java:38)] - The products page URL is https://automationexercise.com/products
+[ERROR] 10-01-2025 18:40:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[ERROR] 10-01-2025 18:40:49 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 18:40:51 [main] [Pages.P05_ProductsPage.viewProductDetails(P05_ProductsPage.java:56)] - The product Details is opened
+[ERROR] 10-01-2025 18:40:51 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string

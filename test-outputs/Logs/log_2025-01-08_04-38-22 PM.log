@@ -1,0 +1,3 @@
+[INFO] 08-01-2025 16:38:22 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseSetupfailed
+[INFO] 08-01-2025 16:38:22 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 08-01-2025 16:38:22 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseValidSignUpSkipped

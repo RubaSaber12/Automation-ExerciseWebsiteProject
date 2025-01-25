@@ -1,0 +1,11 @@
+[INFO] 18-01-2025 18:31:55 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 18-01-2025 18:31:59 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 18-01-2025 18:32:00 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 18-01-2025 18:32:05 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:39)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 18:32:09 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:41)] -  The User Logged in successfully
+[INFO] 18-01-2025 18:32:12 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:49)] - The product added to cart successfully
+[INFO] 18-01-2025 18:32:16 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:51)] - The Cart is opened
+[INFO] 18-01-2025 18:32:18 [main] [Pages.P09_CheckoutPage.CheckOutProcess(P09_CheckoutPage.java:59)] - The Comment: CHUCK NORRIS DOESN'T NEED AN OS.
+[INFO] 18-01-2025 18:32:21 [main] [Pages.P09_CheckoutPage.FillingCardData(P09_CheckoutPage.java:70)] - The Card Data is: Name: Mr. Scott HintzNumber: 6011-6255-7518-3324-5963CVC: 226ExpMonth: 01ExpYear: 2030
+[INFO] 18-01-2025 18:32:31 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidateTheCheckoutProcessfailed
+[INFO] 18-01-2025 18:32:31 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:66)] - Test execution completed. Closing browser.

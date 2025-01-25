@@ -1,0 +1,10 @@
+[INFO] 23-01-2025 15:21:35 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:46)] - Browser driver is opened
+[INFO] 23-01-2025 15:21:40 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:48)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:21:40 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:50)] - Browser switched to full-screen mode
+[INFO] 23-01-2025 15:21:41 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CasevalidSignUpStarted
+[INFO] 23-01-2025 15:21:47 [main] [Pages.P01_RegisterPage.fillUserRegisterForm(P01_RegisterPage.java:68)] - Password: Rais@3120
+[INFO] 23-01-2025 15:21:49 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CasevalidSignUpfailed
+[INFO] 23-01-2025 15:21:51 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened
+[INFO] 23-01-2025 15:21:54 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:25)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:21:54 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidLoginStarted
+[INFO] 23-01-2025 15:21:59 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseValidLoginfailed

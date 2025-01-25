@@ -1,0 +1,11 @@
+[INFO] 18-01-2025 18:37:27 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 18-01-2025 18:37:31 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 18-01-2025 18:37:32 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 18-01-2025 18:37:37 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:39)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 18:37:41 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:41)] -  The User Logged in successfully
+[INFO] 18-01-2025 18:37:44 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:49)] - The product added to cart successfully
+[INFO] 18-01-2025 18:37:47 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:51)] - The Cart is opened
+[INFO] 18-01-2025 18:37:50 [main] [Pages.P09_CheckoutPage.CheckOutProcess(P09_CheckoutPage.java:59)] - The Comment: CHUCK NORRIS WRITES CODE THAT OPTIMIZES ITSELF.
+[INFO] 18-01-2025 18:37:53 [main] [Pages.P09_CheckoutPage.FillingCardData(P09_CheckoutPage.java:70)] - The Card Data is: Name: Felicia TurnerNumber: 3689-236067-3816CVC: 482ExpMonth: 10ExpYear: 2025
+[INFO] 18-01-2025 18:37:59 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseValidateTheCheckoutProcessPassed
+[INFO] 18-01-2025 18:37:59 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:62)] - Test execution completed. Closing browser.

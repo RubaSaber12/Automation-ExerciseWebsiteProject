@@ -1,0 +1,18 @@
+[INFO] 08-01-2025 18:06:31 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 08-01-2025 18:06:37 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 08-01-2025 18:06:37 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 08-01-2025 18:06:43 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:75)] - Password: Rais@3120
+[INFO] 08-01-2025 18:06:43 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:79)] - Day: 3
+[INFO] 08-01-2025 18:06:43 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:81)] - Month: December
+[INFO] 08-01-2025 18:06:43 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:83)] - Year: 2000
+[INFO] 08-01-2025 18:06:43 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:92)] - First name: Kristine
+[INFO] 08-01-2025 18:06:43 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:95)] - Last name: Witting
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:100)] - Company: Cormier LLC
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:103)] - First Address : 034 Angila River
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:106)] - Second Address: Suite 241
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:109)] - Country: United States
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:112)] - State : Nevada
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:115)] - city: Port Dominiqueport
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:118)] - zip code: 65843-3679
+[INFO] 08-01-2025 18:06:44 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:121)] - Mobile number: 4445730144
+[INFO] 08-01-2025 18:06:53 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidSignUpfailed

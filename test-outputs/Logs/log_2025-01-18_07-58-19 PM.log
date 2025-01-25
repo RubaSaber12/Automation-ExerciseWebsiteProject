@@ -1,0 +1,5 @@
+[INFO] 18-01-2025 19:58:19 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 18-01-2025 19:58:24 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 18-01-2025 19:58:24 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 18-01-2025 19:58:26 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:39)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 19:58:28 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:41)] -  The User Logged in successfully

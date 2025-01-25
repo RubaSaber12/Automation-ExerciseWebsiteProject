@@ -1,0 +1,10 @@
+[INFO] 18-01-2025 18:26:13 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 18-01-2025 18:26:17 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 18-01-2025 18:26:18 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 18-01-2025 18:26:23 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:38)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 18:26:27 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:40)] -  The User Logged in successfully
+[INFO] 18-01-2025 18:26:30 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:48)] - The product added to cart successfully
+[INFO] 18-01-2025 18:26:34 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:50)] - The Cart is opened
+[INFO] 18-01-2025 18:26:39 [main] [Pages.P09_CheckoutPage.FillingCardData(P09_CheckoutPage.java:68)] - The Card Data is: Name: Shaun SchowalterNumber: 6706888113830410CVC: 153ExpMonth: 08ExpYear: 2026
+[INFO] 18-01-2025 18:26:40 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidateTheCheckoutProcessfailed
+[INFO] 18-01-2025 18:26:40 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:66)] - Test execution completed. Closing browser.

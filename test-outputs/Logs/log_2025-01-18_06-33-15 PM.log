@@ -1,0 +1,11 @@
+[INFO] 18-01-2025 18:33:15 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 18-01-2025 18:33:19 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 18-01-2025 18:33:20 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 18-01-2025 18:33:25 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:39)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 18-01-2025 18:33:29 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:41)] -  The User Logged in successfully
+[INFO] 18-01-2025 18:33:33 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:49)] - The product added to cart successfully
+[INFO] 18-01-2025 18:33:36 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:51)] - The Cart is opened
+[INFO] 18-01-2025 18:33:39 [main] [Pages.P09_CheckoutPage.CheckOutProcess(P09_CheckoutPage.java:59)] - The Comment: CHUCK NORRIS'S FIRST PROGRAM WAS KILL -9.
+[INFO] 18-01-2025 18:33:42 [main] [Pages.P09_CheckoutPage.FillingCardData(P09_CheckoutPage.java:70)] - The Card Data is: Name: Phylis OsinskiNumber: 6007-2257-5399-0681CVC: 428ExpMonth: 01ExpYear: 2029
+[INFO] 18-01-2025 18:33:43 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidateTheCheckoutProcessfailed
+[INFO] 18-01-2025 18:33:43 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:62)] - Test execution completed. Closing browser.

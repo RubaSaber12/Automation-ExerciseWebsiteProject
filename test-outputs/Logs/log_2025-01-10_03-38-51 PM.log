@@ -1,0 +1,10 @@
+[INFO] 10-01-2025 15:38:51 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened
+[INFO] 10-01-2025 15:38:55 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:25)] - Page is redirected to the URL
+[INFO] 10-01-2025 15:38:58 [main] [Pages.P02_HomePage.ClickOnLogin(P02_HomePage.java:28)] - It's redirect to LoginPage
+[INFO] 10-01-2025 15:38:58 [main] [Pages.P02_HomePage.FillingEmailAddressAndPassword(P02_HomePage.java:39)] - The Existing Email is: Rubasaber12@gmail.com
+[INFO] 10-01-2025 15:38:58 [main] [Pages.P02_HomePage.FillingEmailAddressAndPassword(P02_HomePage.java:41)] - The Existing password is: Rais@3120
+[INFO] 10-01-2025 15:39:00 [main] [Pages.P02_HomePage.FillingEmailAddressAndPassword(P02_HomePage.java:43)] - The user Login successfully
+[ERROR] 10-01-2025 15:39:00 [main] [Utilities.Utility.verifyElementVisible(Utility.java:126)] - Cannot parse null string
+[INFO] 10-01-2025 15:39:02 [main] [Pages.P02_HomePage.DeleteAccount(P02_HomePage.java:54)] - The Account will be deleted
+[INFO] 10-01-2025 15:39:04 [main] [Pages.P02_HomePage.DeleteAccount(P02_HomePage.java:56)] - The Account deleted
+[ERROR] 10-01-2025 15:39:04 [main] [Utilities.Utility.verifyElementVisible(Utility.java:126)] - Cannot parse null string

@@ -1,0 +1,19 @@
+[INFO] 23-01-2025 15:23:01 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:46)] - Browser driver is opened
+[INFO] 23-01-2025 15:23:57 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:48)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:23:57 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:50)] - Browser switched to full-screen mode
+[INFO] 23-01-2025 15:23:58 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CasevalidSignUpStarted
+[INFO] 23-01-2025 15:24:04 [main] [Pages.P01_RegisterPage.fillUserRegisterForm(P01_RegisterPage.java:68)] - Password: Rais@3120
+[INFO] 23-01-2025 15:24:05 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CasevalidSignUpfailed
+[INFO] 23-01-2025 15:24:07 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened
+[INFO] 23-01-2025 15:24:12 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:25)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:24:12 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidLoginStarted
+[INFO] 23-01-2025 15:24:14 [main] [Pages.P02_HomePage.clickOnLogin(P02_HomePage.java:30)] - Redirected to Login Page
+[INFO] 23-01-2025 15:24:14 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:40)] - Entered Email: Rubasaber12@gmail.com
+[INFO] 23-01-2025 15:24:14 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:42)] - Entered Password: Rais@3120
+[INFO] 23-01-2025 15:24:16 [main] [Pages.P02_HomePage.fillEmailAddressAndPassword(P02_HomePage.java:44)] - User logged in successfully
+[ERROR] 23-01-2025 15:24:16 [main] [Utilities.Utility.verifyElementVisible(Utility.java:136)] - Cannot parse null string
+[INFO] 23-01-2025 15:24:16 [main] [Pages.P02_HomePage.verifyLoginUserNameIsVisible(P02_HomePage.java:50)] - Username is visible, login successful
+[INFO] 23-01-2025 15:24:16 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseValidLoginPassed
+[INFO] 23-01-2025 15:24:17 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:24)] - Chrome driver is opened
+[INFO] 23-01-2025 15:24:21 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:26)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:24:21 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseInvalidLoginStarted

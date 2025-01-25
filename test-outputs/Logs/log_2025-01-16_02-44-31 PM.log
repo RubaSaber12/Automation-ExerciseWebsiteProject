@@ -1,0 +1,6 @@
+[INFO] 16-01-2025 14:44:31 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:32)] - Chrome driver is opened
+[INFO] 16-01-2025 14:44:37 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:34)] - Page is redirected to the URL
+[INFO] 16-01-2025 14:44:37 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsQuantityInTheCartStarted
+[INFO] 16-01-2025 14:44:40 [main] [Pages.P08_AddingRandomProducts.OpenProductsPage(P08_AddingRandomProducts.java:27)] - The products page has opened
+[INFO] 16-01-2025 14:44:43 [main] [Pages.P08_AddingRandomProducts.AddingProductsOnCart(P08_AddingRandomProducts.java:36)] - The number of products is 8
+[INFO] 16-01-2025 14:44:50 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseVerifyProductsQuantityInTheCartfailed

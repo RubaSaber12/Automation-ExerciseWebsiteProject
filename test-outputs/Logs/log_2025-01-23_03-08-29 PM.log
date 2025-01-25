@@ -1,0 +1,42 @@
+[INFO] 23-01-2025 15:08:29 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:46)] - Browser driver is opened
+[INFO] 23-01-2025 15:09:16 [main] [Tests.TC01_VerifyRegister.setup(TC01_VerifyRegister.java:48)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:09:16 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test Casesetupfailed
+[INFO] 23-01-2025 15:09:16 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CasevalidSignUpStarted
+[INFO] 23-01-2025 15:09:16 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CasevalidSignUpSkipped
+[INFO] 23-01-2025 15:09:17 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:23)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:34 [main] [Tests.TC02_LoginWithValidData.Setup(TC02_LoginWithValidData.java:25)] - Page is redirected to the URL
+[INFO] 23-01-2025 15:09:34 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidLoginStarted
+[INFO] 23-01-2025 15:09:34 [main] [Pages.P02_HomePage.clickOnLogin(P02_HomePage.java:30)] - Redirected to Login Page
+[INFO] 23-01-2025 15:09:39 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseValidLoginfailed
+[INFO] 23-01-2025 15:09:41 [main] [Tests.TC03_InValidLogin.Setup(TC03_InValidLogin.java:24)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:42 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:42 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseInvalidLoginStarted
+[INFO] 23-01-2025 15:09:42 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseInvalidLoginSkipped
+[INFO] 23-01-2025 15:09:43 [main] [Tests.TC04_LogoutUser.Setup(TC04_LogoutUser.java:24)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:43 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:43 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidLogoutStarted
+[INFO] 23-01-2025 15:09:43 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseValidLogoutSkipped
+[INFO] 23-01-2025 15:09:46 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:29)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:46 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:46 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsPageStarted
+[INFO] 23-01-2025 15:09:46 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseVerifyProductsPageSkipped
+[INFO] 23-01-2025 15:09:49 [main] [Tests.TC06_VerifySearchingProducts.Setup(TC06_VerifySearchingProducts.java:31)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:49 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifySearchingProcessStarted
+[INFO] 23-01-2025 15:09:49 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseVerifySearchingProcessSkipped
+[INFO] 23-01-2025 15:09:51 [main] [Tests.TC07_VerifyAddingProductsOnCart.Setup(TC07_VerifyAddingProductsOnCart.java:27)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:52 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:52 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyAddingProductsToCartStarted
+[INFO] 23-01-2025 15:09:52 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseVerifyAddingProductsToCartSkipped
+[INFO] 23-01-2025 15:09:55 [main] [Tests.TC08_VerifyProductsQuantityInTheCart.Setup(TC08_VerifyProductsQuantityInTheCart.java:33)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:55 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:55 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsQuantityInTheCartStarted
+[INFO] 23-01-2025 15:09:55 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseVerifyProductsQuantityInTheCartSkipped
+[INFO] 23-01-2025 15:09:58 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 23-01-2025 15:09:58 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:09:58 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 23-01-2025 15:09:58 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseValidateTheCheckoutProcessSkipped
+[INFO] 23-01-2025 15:10:00 [main] [Tests.TC10_VerifyDownloadingInvoice.Setup(TC10_VerifyDownloadingInvoice.java:45)] - Chrome driver is opened
+[INFO] 23-01-2025 15:10:01 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test CaseSetupfailed
+[INFO] 23-01-2025 15:10:01 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyDownloadingInvoiceStarted
+[INFO] 23-01-2025 15:10:01 [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:17)] - Test CaseVerifyDownloadingInvoiceSkipped

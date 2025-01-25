@@ -1,0 +1,11 @@
+[INFO] 22-01-2025 12:13:29 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:44)] - Chrome driver is opened
+[INFO] 22-01-2025 12:13:33 [main] [Tests.TC09_ValidateTheCheckoutProcess.Setup(TC09_ValidateTheCheckoutProcess.java:46)] - Page is redirected to the URL
+[INFO] 22-01-2025 12:13:34 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidateTheCheckoutProcessStarted
+[INFO] 22-01-2025 12:13:35 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:39)] - The User Email is Rubasaber12@gmail.com, And the User password is Rais@3120
+[INFO] 22-01-2025 12:13:38 [main] [Pages.P09_CheckoutPage.SignUpProcess(P09_CheckoutPage.java:41)] -  The User Logged in successfully
+[INFO] 22-01-2025 12:13:40 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:49)] - The product added to cart successfully
+[INFO] 22-01-2025 12:13:42 [main] [Pages.P09_CheckoutPage.AddingProductToCart(P09_CheckoutPage.java:51)] - The Cart is opened
+[INFO] 22-01-2025 12:13:45 [main] [Pages.P09_CheckoutPage.CheckOutProcess(P09_CheckoutPage.java:59)] - The Comment: WHEN CHUCK NORRIS PRESSES CTRL+ALT+DELETE, WORLDWIDE COMPUTER RESTART IS INITIATED.
+[INFO] 22-01-2025 12:13:47 [main] [Pages.P09_CheckoutPage.FillingCardData(P09_CheckoutPage.java:70)] - The Card Data is: Name: Stevie RaynorNumber: 3708-860055-76438CVC: 737ExpMonth: 04ExpYear: 2029
+[INFO] 22-01-2025 12:13:52 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test CaseValidateTheCheckoutProcessPassed
+[INFO] 22-01-2025 12:13:52 [main] [Tests.TC09_ValidateTheCheckoutProcess.Quit(TC09_ValidateTheCheckoutProcess.java:62)] - Test execution completed. Closing browser.

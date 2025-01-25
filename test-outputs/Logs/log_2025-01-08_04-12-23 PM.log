@@ -1,0 +1,18 @@
+[INFO] 08-01-2025 16:12:23 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:45)] - Chrome driver is opened
+[INFO] 08-01-2025 16:12:29 [main] [Tests.TC01_VerifyRegister.Setup(TC01_VerifyRegister.java:47)] - Page is redirected to the URL
+[INFO] 08-01-2025 16:12:29 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseValidSignUpStarted
+[INFO] 08-01-2025 16:12:34 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:75)] - Password: Rais@3120
+[INFO] 08-01-2025 16:12:34 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:79)] - Day: 3
+[INFO] 08-01-2025 16:12:34 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:81)] - Month: December
+[INFO] 08-01-2025 16:12:34 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:83)] - Year: 2000
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:92)] - First name: Maryland
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:95)] - Last name: Wehner
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:100)] - Company: Schmeler and Sons
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:103)] - First Address : 76860 Murazik Wall
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:106)] - Second Address: Apt. 144
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:109)] - Country: United States
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:112)] - State : Minnesota
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:115)] - city: Leuschketown
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:118)] - zip code: 49132-2192
+[INFO] 08-01-2025 16:12:35 [main] [Pages.P01_RegisterPage.FillingUserRegisterForm(P01_RegisterPage.java:121)] - Mobile number: 6120389540
+[INFO] 08-01-2025 16:12:43 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseValidSignUpfailed

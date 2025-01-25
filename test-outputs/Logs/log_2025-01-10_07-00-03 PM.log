@@ -1,0 +1,7 @@
+[INFO] 10-01-2025 19:00:03 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:30)] - Chrome driver is opened
+[INFO] 10-01-2025 19:00:09 [main] [Tests.TC05_VerifyAllProducts.Setup(TC05_VerifyAllProducts.java:32)] - Page is redirected to the URL
+[INFO] 10-01-2025 19:00:09 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test CaseVerifyProductsPageStarted
+[INFO] 10-01-2025 19:00:11 [main] [Pages.P05_ProductsPage.ClickOnProductButton(P05_ProductsPage.java:32)] - The page redirect to products List
+[INFO] 10-01-2025 19:00:11 [main] [Pages.P05_ProductsPage.VerifyTheProductsPageURL(P05_ProductsPage.java:38)] - The products page URL is https://automationexercise.com/products
+[ERROR] 10-01-2025 19:00:11 [main] [Utilities.Utility.verifyElementVisible(Utility.java:132)] - Cannot parse null string
+[INFO] 10-01-2025 19:00:11 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test CaseVerifyProductsPagefailed
