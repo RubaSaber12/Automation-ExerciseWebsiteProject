@@ -42,10 +42,12 @@ public class DriverFactory {
 
             default:
                 ChromeOptions chromeOptions = new ChromeOptions();
-                chromeOptions.addArguments("--start-maximized");
+                chromeOptions.addArguments("--window-size=1440,1000");
+                chromeOptions.addArguments("--disable-notifications");
                 driverThreadLocal.set(new ChromeDriver(chromeOptions));
                 break;
         }
+
 
     }
 
