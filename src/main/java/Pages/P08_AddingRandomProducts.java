@@ -11,7 +11,7 @@ import static Utilities.WaitsUtils.waitForElementPresent;
 
 public class P08_AddingRandomProducts {
     private final By openProductPage = By.xpath("//header/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]");
-    private final By viewProduct = By.xpath("//body/section[2]/div[1]/div[1]/div[2]/div[1]/div[9]/div[1]/div[2]/ul[1]/li[1]/a[1]");
+    private final By viewProduct = By.xpath("//body/section[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]/ul[1]/li[1]/a[1]");
     private final By productQuantity = By.xpath("//input[@id='quantity']");
     private final By addToCartButton = By.xpath("//body/section[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/span[1]/button[1]");
     private final By continueShoppingButton = By.xpath("//button[contains(text(),'Continue Shopping')]");
